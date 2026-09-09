@@ -35,6 +35,8 @@ Russian:
 
 # Support
 
-If you really like what I do and want to support my effort, you can do it by using:
+If you really like what I do and want to support my effort, you can do it using those links:
+
 https://github.com/sponsors/nickshl
+
 https://paypal.me/nickshl
